@@ -1,0 +1,16 @@
+.logo_title {
+  font-family: 'Oswald', sans-serif;
+}
+.nav_link {
+  font-family: 'arial', sans-serif;
+  text-decoration: underline;
+}
+.service_desc_headers {
+  font-family: 'Oswald', sans-serif;
+}
+.desc_of_services {
+  font-family: 'Roboto', sans-serif;
+}
+.button {
+  font-family: 'Roboto', sans-serif;
+}

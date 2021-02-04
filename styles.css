@@ -1,16 +1,21 @@
-.logo_title {
-  font-family: 'Oswald', sans-serif;
+.logo__text {
+  font-family: 'PT Serif', sans-serif;
+  font-weight: bold;
 }
-.nav_link {
-  font-family: 'arial', sans-serif;
-  text-decoration: underline;
+.menu__item {
+  font-family: 'Roboto', sans-serif;
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
 }
-.service_desc_headers {
-  font-family: 'Oswald', sans-serif;
+.main-conten__title {
+  font-family: 'PT Serif', sans-serif;
 }
-.desc_of_services {
+.main-content__subtitle {
   font-family: 'Roboto', sans-serif;
 }
-.button {
+.main-content__button {
   font-family: 'Roboto', sans-serif;
+  color: white;
+  background-color: #0056EC;
 }
